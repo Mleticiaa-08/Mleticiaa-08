@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Letícia Almeida 👋
 
-<!--
-**Mleticiaa-08/Mleticiaa-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student | IT Technician Graduate**
 
-Here are some ideas to get you started:
+I'm currently learning **full-stack development** with Python and Java while expanding my knowledge of modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I completed my TCC: **Áurea**
+* I developed a project for **EDUTEC**: **Astroview**
+* Learn more about my experience on **[LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-moreira-abb609356/)**
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,nodejs,react" />
+</p>
+
+## Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+## Data Analysis, Hardware & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,html,css,figma" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,pandas,opencv" />
+</p>
